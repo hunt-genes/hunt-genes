@@ -8,9 +8,9 @@ The overall aim of the [K.G. Jebsen Center for Genetic Epidemiology](https://www
 
 | Repository | Description | Language(s) |
 |---|---|---|
-| [HUNT GWAS pipeline](https://github.com/hunt-genes/hunt-gwas-pipeline) | Pipeline for running GWAS in HUNT data. |  |
-| [How to UKBB](https://github.com/hunt-genes/how-to-ukbb) | Documentation for UKBB analyses |  |
-
+| [HUNT GWAS pipeline](https://github.com/hunt-genes/hunt-gwas-pipeline) | Pipeline for running GWAS in HUNT data. | bash, R |
+| [How to UKBB](https://github.com/hunt-genes/how-to-ukbb) | Documentation for UKBB analyses | bash, R |
+| [SMED 8020](https://github.com/hunt-genes/SMED8020) | Genetic epidemiology short-course meterial | bash, R |
 ## Archive
 
 | Repository | Description | Language(s) |
