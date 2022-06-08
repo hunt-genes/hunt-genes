@@ -1,8 +1,7 @@
 <img src="https://github.com/hunt-genes/hunt-genes/blob/main/1.%20KGJebsenGenEp_Eng_Transparent%202.png" width="200">
 
 # About hunt-genes
-This is a meta-repository to help navigate repos and resources for genetic epidemiological analyses in data from the [Trøndelag Health Study](https://www.ntnu.edu/hunt/about-hunt) or other population biobanks (e.g. UK Biobank). Currently managed by [Brooke Wolford](https://github.com/bnwolford). Contact brookewo@ntnu.no for questions.
-
+This is a meta-repository to help navigate repos and resources for genetic epidemiological analyses in data from the [Trøndelag Health Study](https://www.ntnu.edu/hunt/about-hunt) or other population biobanks (e.g. UK Biobank). 
 
 
 # About Us 
