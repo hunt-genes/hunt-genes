@@ -14,8 +14,10 @@ The overall aim of the [K.G. Jebsen Center for Genetic Epidemiology](https://www
 | [HUNT GWAS pipeline](https://github.com/hunt-genes/hunt-gwas-pipeline) | Pipeline for running GWAS in HUNT data. | bash, R |
 | [How to UKBB](https://github.com/hunt-genes/how-to-ukbb) | Documentation for UKBB analyses | bash, R |
 | [SMED 8020](https://github.com/hunt-genes/SMED8020) | Genetic epidemiology short-course meterial | bash, R |
+| [SMED 8020 Archive](https://github.com/hunt-genes/SMED8020-archive) | Private archive for past genetic epidemiology short-course meterial | bash, R |
 | [Git workshop](https://github.com/hunt-genes/git_workshop) | Workshop on git and github by Kelly Sovacool | git |
 ## Archive
+
 
 | Repository | Description | Language(s) |
 |---|---|---|
