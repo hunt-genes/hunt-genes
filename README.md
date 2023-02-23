@@ -4,7 +4,8 @@
 This is a meta-repository to help navigate repos and resources for genetic epidemiological analyses in data from the [Trøndelag Health Study](https://www.ntnu.edu/hunt/about-hunt) or other population biobanks (e.g. UK Biobank).    
 
 Read about what we have done here: [The HUNT study: A population-based cohort for genetic research](https://pubmed.ncbi.nlm.nih.gov/36777998/)    
-
+Pubmed link: https://pubmed.ncbi.nlm.nih.gov/36777998/       
+ 
 # About Us 
 The overall aim of the [K.G. Jebsen Center for Genetic Epidemiology](https://www.ntnu.edu/huntgenes/k.g.-jebsen-center-for-genetic-epidemiology) is to better understand human health and disease by studying genomic variation in populations. The center primarily works on the translational axis between population-based and laboratory-based research.
 
